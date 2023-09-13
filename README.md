@@ -1,2 +1,2 @@
 # practice
-This is for persolan practice repo for myself. Nothing important!
+This is for personal practice repo for myself. Nothing important!
